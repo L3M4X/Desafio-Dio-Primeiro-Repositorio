@@ -40,12 +40,24 @@ Faça a commitação. Utilize "git commit -m "Adicione um comentário".
 
 
 
-####  8º Passo:
+#### 8º Passo: 
 
-Caso queira verificar mais uma vez, "git status", caso esteja pronto para empurrar utilize o comando "git push origin main" ou "git push origin master"
+Vá ao GitHub e clique na opção de adicionar repositório, escreva um nome e uma descrição. Após isso vá em _…or push an existing repository from the command line_  e copie o URL
 
 
 
 ####  9º Passo:
+
+No Git utilize o comando "git remote add _link copiado_"
+
+
+
+####  9º Passo:
+
+Para empurrar utilize o comando "git push origin main" ou "git push origin master"
+
+
+
+####  10º Passo:
 
 Coloque sua senha e verifique seu GitHub
